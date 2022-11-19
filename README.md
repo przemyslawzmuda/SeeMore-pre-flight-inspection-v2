@@ -34,7 +34,7 @@ The following technologies have been used in the project:
 <div align="justify"></div>
 
 ## Destination
-<div style="text-align: justify">
+<div align="justify">
 The ultimate goal is to create the software that would be used during pre-flight inspections to detect any malfunctions
 in the airframe. As well as this to pick up the pace of deep learning process to solve any multi-classification
 problem.
