@@ -14,7 +14,7 @@ the command line interface as well as this, the graphical user interface have be
 all-purpose tool. Moreover, it can be used to recognize and classify any kind of multiclass classification task.
 ## Technologies
 The following technologies have been used in the project:
-* Python 3.10;
+* Python 3.11;
 * TensorFlow 2.6.0;
 * Matplotlib 3.4.3;
 * Tkinter 8.6;
