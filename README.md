@@ -1,5 +1,5 @@
 # SeeMore-pre-flight-inspection-v2
-<div style="text-align: justify">
+<div align="justify">
 Software application destined to recognize and classify the wing components as well as pounding of the At3-R100
 aircraft.
 </div>
@@ -12,7 +12,7 @@ aircraft.
 * [Inspirations](#inspirations)
 
 ## Brief Summary
-<div style="text-align: justify">
+<div align="justify">
 The following application presents the source code according to my Engineering Thesis, which had been my last 
 examination on the Aviation Engineering curriculum. The following software has been built in the hybrid mode, which 
 means the command line interface as well as this, the graphical user interface have been implemented. The software is
@@ -20,7 +20,7 @@ all-purpose tool. Moreover, it can be used to recognize and classify any kind of
 </div>
 
 ## Technologies
-<div style="text-align: justify">
+<div align="justify">
 The following technologies have been used in the project:
 </div>
 
@@ -31,7 +31,7 @@ The following technologies have been used in the project:
 * PIL 8.4.0;
 
 ## Functionality
-<div style="text-align: justify"></div>
+<div align="justify"></div>
 
 ## Destination
 <div style="text-align: justify">
@@ -41,7 +41,7 @@ problem.
 </div>
 
 ## Inspirations
-<div style="text-align: justify">
+<div align="justify">
 The following project is my own idea to test the application of artificial intelligence methods in the aviation
 industry. Moreover, the following application introduce my self-taught learning process of the Python language
 programming.
