@@ -10,6 +10,7 @@ aircraft.
 * [Functionality](#functionality)
 * [Destination](#destination)
 * [Inspirations](#inspirations)
+* [Project Configuration](#project-configuration)
 
 ## Brief Summary
 <div align="justify">
@@ -45,4 +46,11 @@ problem.
 The following project is my own idea to test the application of artificial intelligence methods in the aviation
 industry. Moreover, the following application introduce my self-taught learning process of the Python language
 programming.
+</div>
+
+## Project Configuration
+<div align="justify">
+
+* Mark the SeeMore directory as a Sources Root and SeeMoreTests directory as a Test Sources Root:
+![Alt text](SeeMore/CargoHold/ImagesReadme/SourcesAndTestRoot.png?raw=true)
 </div>
