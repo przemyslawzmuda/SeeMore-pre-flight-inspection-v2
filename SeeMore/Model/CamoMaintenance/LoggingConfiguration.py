@@ -23,5 +23,5 @@ class SeeMoreLoggingFacility:
         # In order to hide the Home directory of the user, perform the following logic:
         index_for_project_name = file_name_parts_list.index('SeeMore')
         start_index_for_logger_name = len(file_name_parts_list) - index_for_project_name
-        name_for_logger_object = str(Path('/')).join(file_name_parts_list[-start_index_for_logger_name:])
+        name_for_logger_object = '/'.join(file_name_parts_list[-start_index_for_logger_name:])
         return name_for_logger_object
