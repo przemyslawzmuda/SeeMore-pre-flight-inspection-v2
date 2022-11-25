@@ -7,9 +7,8 @@ def test_return_name_for_logger_object():
     with TemporaryDirectory() as temporary_dir:
         # given
         temporary_dir = Path(temporary_dir)
-        mock_project_dir = temporary_dir / 'user-x' / 'Python-Project' / 'SeeMore' / 'App' / 'main-test.py'
-        file_name = str(mock_project_dir)
+        mock_project_dir = temporary_dir / 'user-x/Python-Project/SeeMore/App/main-test.py'
         # when
-        name_for_logger_object = SeeMoreLoggingFacility.return_name_for_logger_object(file_name)
+        name_for_logger_object = SeeMoreLoggingFacility.return_name_for_logger_object(mock_project_dir)
         # then
-        assert name_for_logger_object == str(Path('SeeMore') / 'App' / 'main-test.py')
+        assert name_for_logger_object == 'SeeMore/App/main-test.py'
